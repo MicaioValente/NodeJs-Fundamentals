@@ -5,6 +5,9 @@
   "repository": "https://github.com/MicaioValente/NodeJs-Fundamentals.git",
   "author": "MicaioValente <micaiovalente@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.13"
