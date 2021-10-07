@@ -1,0 +1,8 @@
+{
+  "name": "NodeJs-Fundamentals",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MicaioValente/NodeJs-Fundamentals.git",
+  "author": "MicaioValente <micaiovalente@gmail.com>",
+  "license": "MIT"
+}
